@@ -1,0 +1,37 @@
+*{background-color: #d6fffe;
+}
+
+.title-site{
+    font-family: Arial;
+    color: #ffd919;
+    font-size: 35px;
+    width: fit-content;
+    border-left: 2px solid #0a00fa;
+    border-bottom: 6px solid #0a00fa;
+    margin: auto;
+}
+
+div img{
+    height: auto;
+    width: 500px;
+    padding-top: 2em;
+    margin-left: 425px;
+    margin-bottom: 50px;
+}
+
+ul{
+    display: flex;
+    margin-right: auto;
+    list-style: none;
+    margin-bottom: 100px;
+     
+}
+
+.recipes a{
+    border: 2px solid black;
+    padding: 2em;
+    margin: 2px;
+    margin-left: 220px;
+    background-color: #ffd919;
+
+}
